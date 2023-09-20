@@ -1,0 +1,1 @@
+from src.blueprint.index import blp_index
